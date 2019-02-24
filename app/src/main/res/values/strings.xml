@@ -1,4 +1,11 @@
 <resources>
     <string name="app_name">Weather App</string>
     <string name="search_city">Search City</string>
+    <string name="Search_city">Search City</string>
+    <string name="currentCity">LUCKNOW</string>
+    <string name="currentTemp">14°</string>
+    <string name="currentFelling">Haze</string>
+    <string name="aboutthisapp">This app is build by me Shubham Mishra.This is my first app.I am programmer and I am struggling hard to learn android if you have any suggestion please mail me my email is sm544735@gmail.com. Thank You.</string>
+    <string name="Termsofuse">This app fetch live waether data fron openweather map.</string>
+    <string name="privacyPolicy">This app take request your location and access to an internet</string>
 </resources>
