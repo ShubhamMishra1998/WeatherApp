@@ -5,7 +5,7 @@
     <string name="currentCity">LUCKNOW</string>
     <string name="currentTemp">14°</string>
     <string name="currentFelling">Haze</string>
-    <string name="aboutthisapp">This app is build by me Shubham Mishra.This is my first app.I am programmer and I am struggling hard to learn android if you have any suggestion please mail me my email is sm544735@gmail.com. Thank You.</string>
-    <string name="Termsofuse">This app fetch live waether data fron openweather map.</string>
-    <string name="privacyPolicy">This app take request your location and access to an internet</string>
+    <string name="aboutthisapp">This app is build by me Shubham Mishra.This is my first app.I am a programmer and I am struggling hard to learn android if you have any suggestion please mail me my email is sm544735@gmail.com. Thank You.</string>
+    <string name="Termsofuse">This app fetch live weather data from openweather map.</string>
+    <string name="privacyPolicy">This application is developed solely for learning purpose it request your location and access to an internet</string>
 </resources>
