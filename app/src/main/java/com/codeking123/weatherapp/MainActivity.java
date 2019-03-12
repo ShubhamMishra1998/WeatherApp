@@ -198,4 +198,12 @@ public class MainActivity extends AppCompatActivity {
           mHumidity.setText(weather.getHumidity());
           mCurrentClouds.setText(weather.getClouds());
     }
+    //Add on Pause Here
+
+    @Override
+    protected void onPause() {
+        super.onPause();
+        if(mLocationManager!=null)
+            mLocationManager.removeUpdates(mLocationListener);
+    }
 }
